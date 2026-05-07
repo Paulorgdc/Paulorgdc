@@ -25,14 +25,6 @@ I am a versatile Software Engineer focused on building complete digital products
 
 ---
 
-### 📊 My GitHub Stats
-
-![Paulorgdc's GitHub stats](https://github-readme-stats.vercel.app/api?username=Paulorgdc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-
-![Paulorgdc's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Paulorgdc&layout=compact&theme=tokyonight)
-
----
-
 ### 🌎 Languages
 - **Portuguese:** Native
 - **English:** Intermediate (Technical communication)
