@@ -27,7 +27,7 @@ I am a versatile Software Engineer focused on building complete digital products
 
 ### 🌎 Languages
 - **Portuguese:** Native
-- **English:** Intermediate (Technical communication)
+- **English:** Basic/Intermediate
 - **Japanese:** Basic
 
 ---
