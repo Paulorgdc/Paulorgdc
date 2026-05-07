@@ -1,4 +1,4 @@
-# Hi, I'm Paulo Roberto! <img src="https://media.giphy.com/media/hvRJCLz37weRlUcHOB/giphy.gif" width="25px">
+# Hi, I'm Paulo! <img src="https://media.giphy.com/media/hvRJCLz37weRlUcHOB/giphy.gif" width="25px">
 
 ### Software Engineer | Full Stack | End-to-End Solutions | Data Automation | Design
 
