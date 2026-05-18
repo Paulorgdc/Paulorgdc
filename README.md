@@ -12,28 +12,23 @@
 
 ---
 
+<br/>
+
+### 🛠️ Stack
+
 <div align="center">
 
-![TypeScript](https://img.shields.io/badge/TypeScript-0d0d0d?style=flat-square&logo=typescript&logoColor=ff2d78)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d0d0d?style=flat-square&logo=javascript&logoColor=ff2d78)
-![Python](https://img.shields.io/badge/Python-0d0d0d?style=flat-square&logo=python&logoColor=ff2d78)
-![C#](https://img.shields.io/badge/C%23-0d0d0d?style=flat-square&logo=csharp&logoColor=ff2d78)
-![C++](https://img.shields.io/badge/C++-0d0d0d?style=flat-square&logo=cplusplus&logoColor=ff2d78)
-![HTML5](https://img.shields.io/badge/HTML5-0d0d0d?style=flat-square&logo=html5&logoColor=ff2d78)
-![CSS3](https://img.shields.io/badge/CSS3-0d0d0d?style=flat-square&logo=css3&logoColor=ff2d78)
-![React](https://img.shields.io/badge/React-0d0d0d?style=flat-square&logo=react&logoColor=ff2d78)
-![Node.js](https://img.shields.io/badge/Node.js-0d0d0d?style=flat-square&logo=node.js&logoColor=ff2d78)
-![Django](https://img.shields.io/badge/Django-0d0d0d?style=flat-square&logo=django&logoColor=ff2d78)
-![Flask](https://img.shields.io/badge/Flask-0d0d0d?style=flat-square&logo=flask&logoColor=ff2d78)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d0d0d?style=flat-square&logo=postgresql&logoColor=ff2d78)
-![MongoDB](https://img.shields.io/badge/MongoDB-0d0d0d?style=flat-square&logo=mongodb&logoColor=ff2d78)
-![Git](https://img.shields.io/badge/Git-0d0d0d?style=flat-square&logo=git&logoColor=ff2d78)
+<img src="https://skillicons.dev/icons?i=ts,js,python,cs,cpp,html,css,react,nodejs,django,flask,postgres,mongodb,mysql,git,figma&theme=dark&perline=8"/>
 
 </div>
 
 <br/>
 
 ---
+
+<br/>
+
+### 📊 Activity
 
 <div align="center">
 
@@ -45,7 +40,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Paulorgdc&hide_border=true&background=0d0d0d&fire=ff2d78&ring=ff2d78&currStreakLabel=ff2d78&sideLabels=888888&dates=555555&stroke=1a1a1a"/>
+<img src="https://streak-stats.demolab.com?user=Paulorgdc&hide_border=true&background=0d0d0d&fire=ff2d78&ring=ff2d78&currStreakLabel=ff2d78&sideLabels=888888&dates=555555&stroke=1a1a1a&currStreakNum=ffffff&sideNums=cccccc"/>
 
 </div>
 
@@ -54,6 +49,8 @@
 ---
 
 <br/>
+
+### 🚀 Projects
 
 <div align="center">
 
@@ -69,6 +66,23 @@
 <a href="https://github.com/Paulorgdc/WALL-E">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Paulorgdc&repo=WALL-E&hide_border=true&bg_color=0d0d0d&title_color=ff2d78&text_color=aaaaaa&icon_color=ff2d78"/>
 </a>
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+### 🌱 Currently Exploring
+
+<div align="center">
+
+![Docker](https://img.shields.io/badge/Docker-0d0d0d?style=flat-square&logo=docker&logoColor=ff2d78)
+![AWS](https://img.shields.io/badge/AWS-0d0d0d?style=flat-square&logo=amazonwebservices&logoColor=ff2d78)
+![GraphQL](https://img.shields.io/badge/GraphQL-0d0d0d?style=flat-square&logo=graphql&logoColor=ff2d78)
+![Redis](https://img.shields.io/badge/Redis-0d0d0d?style=flat-square&logo=redis&logoColor=ff2d78)
 
 </div>
 
