@@ -25,7 +25,6 @@
 <a href="https://www.postgresql.org/" target="_blank"><img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg"/></a>
 <a href="https://www.mongodb.com/" target="_blank"><img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg"/></a>
 <a href="https://www.mysql.com/" target="_blank"><img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg"/></a>
-<a href="https://mariadb.org/" target="_blank"><img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MariaDB-Dark.svg"/></a>
 <a href="https://git-scm.com/" target="_blank"><img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg"/></a>
 <a href="https://github.com/" target="_blank"><img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg"/></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg"/></a>
