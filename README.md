@@ -4,16 +4,30 @@
 
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=ff2d78&center=true&vCenter=true&width=500&height=50&lines=Full+Stack+Engineer;Data+Automation+%26+Design;Building+end-to-end+solutions;Always+learning+%F0%9F%9A%80" alt="Typing SVG"/>
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-0d0d0d?style=flat-square&logo=typescript&logoColor=ff2d78)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d0d0d?style=flat-square&logo=javascript&logoColor=ff2d78)
 ![Python](https://img.shields.io/badge/Python-0d0d0d?style=flat-square&logo=python&logoColor=ff2d78)
+![C#](https://img.shields.io/badge/C%23-0d0d0d?style=flat-square&logo=csharp&logoColor=ff2d78)
+![C++](https://img.shields.io/badge/C++-0d0d0d?style=flat-square&logo=cplusplus&logoColor=ff2d78)
+![HTML5](https://img.shields.io/badge/HTML5-0d0d0d?style=flat-square&logo=html5&logoColor=ff2d78)
+![CSS3](https://img.shields.io/badge/CSS3-0d0d0d?style=flat-square&logo=css3&logoColor=ff2d78)
 ![React](https://img.shields.io/badge/React-0d0d0d?style=flat-square&logo=react&logoColor=ff2d78)
 ![Node.js](https://img.shields.io/badge/Node.js-0d0d0d?style=flat-square&logo=node.js&logoColor=ff2d78)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d0d0d?style=flat-square&logo=postgresql&logoColor=ff2d78)
-![MongoDB](https://img.shields.io/badge/MongoDB-0d0d0d?style=flat-square&logo=mongodb&logoColor=ff2d78)
 ![Django](https://img.shields.io/badge/Django-0d0d0d?style=flat-square&logo=django&logoColor=ff2d78)
 ![Flask](https://img.shields.io/badge/Flask-0d0d0d?style=flat-square&logo=flask&logoColor=ff2d78)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d0d0d?style=flat-square&logo=postgresql&logoColor=ff2d78)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d0d0d?style=flat-square&logo=mongodb&logoColor=ff2d78)
 ![Git](https://img.shields.io/badge/Git-0d0d0d?style=flat-square&logo=git&logoColor=ff2d78)
-![Figma](https://img.shields.io/badge/Figma-0d0d0d?style=flat-square&logo=figma&logoColor=ff2d78)
 
 </div>
 
