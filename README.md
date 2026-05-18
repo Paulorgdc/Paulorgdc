@@ -3,92 +3,49 @@
 <br/>
 
 <div align="center">
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=ff2d78&center=true&vCenter=true&width=500&height=50&lines=Full+Stack+Engineer;Data+Automation+%26+Design;Building+end-to-end+solutions;Always+learning+%F0%9F%9A%80" alt="Typing SVG"/>
+</div>
+
+<br/>
+
+<div align="center">
+
+<a href="https://www.typescriptlang.org/" target="_blank"><img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg"/></a>
+<a href="https://www.python.org/" target="_blank"><img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg"/></a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CS.svg"/></a>
+<a href="https://isocpp.org/" target="_blank"><img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg"/></a>
+<a href="https://react.dev/" target="_blank"><img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg"/></a>
+<a href="https://nodejs.org/" target="_blank"><img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg"/></a>
+<a href="https://www.djangoproject.com/" target="_blank"><img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Django.svg"/></a>
+<a href="https://flask.palletsprojects.com/" target="_blank"><img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Flask-Dark.svg"/></a>
+<a href="https://expressjs.com/" target="_blank"><img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ExpressJS-Dark.svg"/></a>
+<a href="https://www.postgresql.org/" target="_blank"><img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg"/></a>
+<a href="https://www.mongodb.com/" target="_blank"><img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg"/></a>
+<a href="https://www.mysql.com/" target="_blank"><img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg"/></a>
+<a href="https://mariadb.org/" target="_blank"><img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MariaDB-Dark.svg"/></a>
+<a href="https://git-scm.com/" target="_blank"><img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg"/></a>
+<a href="https://github.com/" target="_blank"><img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg"/></a>
+<a href="https://code.visualstudio.com/" target="_blank"><img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg"/></a>
+<a href="https://www.figma.com/" target="_blank"><img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg"/></a>
+<a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Photoshop.svg"/></a>
+<a href="https://jira.atlassian.com/" target="_blank"><img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Jira.svg"/></a>
 
 </div>
 
 <br/>
 
----
-
-<br/>
-
-### 🛠️ Stack
-
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=ts,js,python,cs,cpp,html,css,react,nodejs,django,flask,postgres,mongodb,mysql,git,figma&theme=dark&perline=8"/>
-
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Paulorgdc&theme=transparent" width="100%"/>
 </div>
 
-<br/>
-
----
-
-<br/>
-
-### 📊 Activity
-
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Paulorgdc&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=ff2d78&icon_color=ff2d78&text_color=cccccc&hide=issues&include_all_commits=true&count_private=true" height="155"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Paulorgdc&theme=transparent&utcOffset=-4" height="155"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulorgdc&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=ff2d78&text_color=cccccc" height="155"/>
-
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Paulorgdc&theme=transparent" height="155"/>
 </div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Paulorgdc&hide_border=true&background=0d0d0d&fire=ff2d78&ring=ff2d78&currStreakLabel=ff2d78&sideLabels=888888&dates=555555&stroke=1a1a1a&currStreakNum=ffffff&sideNums=cccccc"/>
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-### 🚀 Projects
-
-<div align="center">
-
-<a href="https://github.com/Paulorgdc/TRIPWAY">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Paulorgdc&repo=TRIPWAY&hide_border=true&bg_color=0d0d0d&title_color=ff2d78&text_color=aaaaaa&icon_color=ff2d78"/>
-</a>
-<a href="https://github.com/Paulorgdc/RELIVRO">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Paulorgdc&repo=RELIVRO&hide_border=true&bg_color=0d0d0d&title_color=ff2d78&text_color=aaaaaa&icon_color=ff2d78"/>
-</a>
-<a href="https://github.com/Paulorgdc/UNIFORMS">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Paulorgdc&repo=UNIFORMS&hide_border=true&bg_color=0d0d0d&title_color=ff2d78&text_color=aaaaaa&icon_color=ff2d78"/>
-</a>
-<a href="https://github.com/Paulorgdc/WALL-E">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Paulorgdc&repo=WALL-E&hide_border=true&bg_color=0d0d0d&title_color=ff2d78&text_color=aaaaaa&icon_color=ff2d78"/>
-</a>
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-### 🌱 Currently Exploring
-
-<div align="center">
-
-![Docker](https://img.shields.io/badge/Docker-0d0d0d?style=flat-square&logo=docker&logoColor=ff2d78)
-![AWS](https://img.shields.io/badge/AWS-0d0d0d?style=flat-square&logo=amazonwebservices&logoColor=ff2d78)
-![GraphQL](https://img.shields.io/badge/GraphQL-0d0d0d?style=flat-square&logo=graphql&logoColor=ff2d78)
-![Redis](https://img.shields.io/badge/Redis-0d0d0d?style=flat-square&logo=redis&logoColor=ff2d78)
-
-</div>
-
-<br/>
-
----
 
 <br/>
 
