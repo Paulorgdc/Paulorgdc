@@ -31,20 +31,29 @@
 <a href="https://code.visualstudio.com/" target="_blank"><img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg"/></a>
 <a href="https://www.figma.com/" target="_blank"><img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg"/></a>
 <a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Photoshop.svg"/></a>
-<a href="https://jira.atlassian.com/" target="_blank"><img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Jira.svg"/></a>
 
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Paulorgdc&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=ff2d78&icon_color=ff2d78&text_color=cccccc&hide=issues&include_all_commits=true&count_private=true" height="155"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulorgdc&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=ff2d78&text_color=cccccc&langs_count=6" height="155"/>
-</div>
 
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=Paulorgdc&hide_border=true&background=0d0d0d&fire=ff2d78&ring=ff2d78&currStreakLabel=ff2d78&sideLabels=888888&dates=555555&stroke=1a1a1a&currStreakNum=ffffff&sideNums=cccccc"/>
+<table border="0" cellspacing="0" cellpadding="4">
+<tr>
+<td>
+<img src="https://github-readme-stats-salesp07.vercel.app/api?username=Paulorgdc&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=ff2d78&icon_color=ff2d78&text_color=cccccc&hide=issues&include_all_commits=true&count_private=true" height="150"/>
+</td>
+<td>
+<img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Paulorgdc&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=ff2d78&text_color=cccccc&langs_count=6" height="150"/>
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+<img src="https://streak-stats.demolab.com?user=Paulorgdc&hide_border=true&background=0d0d0d&fire=ff2d78&ring=ff2d78&currStreakLabel=ff2d78&sideLabels=888888&dates=555555&stroke=1a1a1a&currStreakNum=ffffff&sideNums=cccccc" width="100%"/>
+</td>
+</tr>
+</table>
+
 </div>
 
 <br/>
