@@ -38,13 +38,13 @@
 <br/>
 
 <div align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Paulorgdc&theme=transparent" width="100%"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Paulorgdc&theme=radical" width="100%"/>
 </div>
 
 <div align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Paulorgdc&theme=transparent&utcOffset=-4" height="155"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Paulorgdc&theme=radical&utcOffset=-4" height="155"/>
 &nbsp;&nbsp;
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Paulorgdc&theme=transparent" height="155"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Paulorgdc&theme=radical" height="155"/>
 </div>
 
 <br/>
