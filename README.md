@@ -38,13 +38,13 @@
 <br/>
 
 <div align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Paulorgdc&theme=radical" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Paulorgdc&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=ff2d78&icon_color=ff2d78&text_color=cccccc&hide=issues&include_all_commits=true&count_private=true" height="155"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulorgdc&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=ff2d78&text_color=cccccc&langs_count=6" height="155"/>
 </div>
 
 <div align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Paulorgdc&theme=radical&utcOffset=-4" height="155"/>
-&nbsp;&nbsp;
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Paulorgdc&theme=radical" height="155"/>
+<img src="https://streak-stats.demolab.com?user=Paulorgdc&hide_border=true&background=0d0d0d&fire=ff2d78&ring=ff2d78&currStreakLabel=ff2d78&sideLabels=888888&dates=555555&stroke=1a1a1a&currStreakNum=ffffff&sideNums=cccccc"/>
 </div>
 
 <br/>
