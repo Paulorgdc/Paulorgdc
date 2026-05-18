@@ -1,24 +1,19 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,100:1a1a2e&height=160&section=header&text=Paulo%20Roberto&fontSize=60&fontColor=00d4ff&fontAlignY=55&animation=blinking" width="100%"/>
-
-</div>
-
-<br/>
-
-```
-  > Initializing profile...
-  > Loading stack...       [████████████████████] 100%
-  > Status: Available for work ✅
-```
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:1a0a14&height=120&text=Paulo%20Roberto&fontSize=48&fontColor=ff2d78&fontAlign=50&fontAlignY=55&desc=Full%20Stack%20Engineer&descAlign=50&descAlignY=80&descSize=14&descFontColor=888888" width="100%"/>
 
 <br/>
 
 <div align="center">
 
-**`Full Stack Engineer`** &nbsp;·&nbsp; **`Data Automation`** &nbsp;·&nbsp; **`UI/UX & Design`**
-
-*Building complete digital products — from robust backends to polished interfaces.*
+![TypeScript](https://img.shields.io/badge/TypeScript-0d0d0d?style=flat-square&logo=typescript&logoColor=ff2d78)
+![Python](https://img.shields.io/badge/Python-0d0d0d?style=flat-square&logo=python&logoColor=ff2d78)
+![React](https://img.shields.io/badge/React-0d0d0d?style=flat-square&logo=react&logoColor=ff2d78)
+![Node.js](https://img.shields.io/badge/Node.js-0d0d0d?style=flat-square&logo=node.js&logoColor=ff2d78)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d0d0d?style=flat-square&logo=postgresql&logoColor=ff2d78)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d0d0d?style=flat-square&logo=mongodb&logoColor=ff2d78)
+![Django](https://img.shields.io/badge/Django-0d0d0d?style=flat-square&logo=django&logoColor=ff2d78)
+![Flask](https://img.shields.io/badge/Flask-0d0d0d?style=flat-square&logo=flask&logoColor=ff2d78)
+![Git](https://img.shields.io/badge/Git-0d0d0d?style=flat-square&logo=git&logoColor=ff2d78)
+![Figma](https://img.shields.io/badge/Figma-0d0d0d?style=flat-square&logo=figma&logoColor=ff2d78)
 
 </div>
 
@@ -26,78 +21,17 @@
 
 ---
 
-<br/>
-
-## ⚡ About Me
-
-- 🏗️ I build **end-to-end solutions**: APIs, databases, responsive frontends and visual identity
-- 🤖 Passionate about **automation**, clean architecture and scalable systems
-- 🎨 I bridge the gap between **engineering and design**
-- 📍 Based in **Cuiabá, Brazil**
-- 📬 Reach me at **paulorgdc2005@gmail.com**
-
-<br/>
-
----
-
-<br/>
-
-## 🔧 Tech Stack
-
-<br/>
-
-**Languages**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-
-**Frameworks & Tools**
-
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=flat-square&logo=flask&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
-![PWA](https://img.shields.io/badge/PWA-%235A0FC8.svg?style=flat-square&logo=pwa&logoColor=white)
-
-**Databases**
-
-![Postgres](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
-
-**Design & Media**
-
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Premiere_Pro-%239999FF.svg?style=flat-square&logo=Adobe%20Premiere%20Pro&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white)
-
-<br/>
-
----
-
-<br/>
-
-## 📈 Stats
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Paulorgdc&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d0d&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff" height="165"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulorgdc&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=00d4ff&text_color=ffffff" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Paulorgdc&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=ff2d78&icon_color=ff2d78&text_color=cccccc&hide=issues&include_all_commits=true&count_private=true" height="155"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulorgdc&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=ff2d78&text_color=cccccc" height="155"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Paulorgdc&theme=dark&hide_border=true&background=0d0d0d&fire=00d4ff&ring=00d4ff&currStreakLabel=00d4ff&sideLabels=ffffff&dates=888888"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Paulorgdc&hide_border=true&background=0d0d0d&fire=ff2d78&ring=ff2d78&currStreakLabel=ff2d78&sideLabels=888888&dates=555555&stroke=1a1a1a"/>
 
 </div>
 
@@ -106,22 +40,20 @@
 ---
 
 <br/>
-
-## 🚀 Featured Projects
 
 <div align="center">
 
 <a href="https://github.com/Paulorgdc/TRIPWAY">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Paulorgdc&repo=TRIPWAY&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Paulorgdc&repo=TRIPWAY&hide_border=true&bg_color=0d0d0d&title_color=ff2d78&text_color=aaaaaa&icon_color=ff2d78"/>
 </a>
 <a href="https://github.com/Paulorgdc/RELIVRO">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Paulorgdc&repo=RELIVRO&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Paulorgdc&repo=RELIVRO&hide_border=true&bg_color=0d0d0d&title_color=ff2d78&text_color=aaaaaa&icon_color=ff2d78"/>
 </a>
 <a href="https://github.com/Paulorgdc/UNIFORMS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Paulorgdc&repo=UNIFORMS&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Paulorgdc&repo=UNIFORMS&hide_border=true&bg_color=0d0d0d&title_color=ff2d78&text_color=aaaaaa&icon_color=ff2d78"/>
 </a>
 <a href="https://github.com/Paulorgdc/WALL-E">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Paulorgdc&repo=WALL-E&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Paulorgdc&repo=WALL-E&hide_border=true&bg_color=0d0d0d&title_color=ff2d78&text_color=aaaaaa&icon_color=ff2d78"/>
 </a>
 
 </div>
@@ -132,31 +64,12 @@
 
 <br/>
 
-## 🌐 Languages
-
-| Language | Level |
-|----------|-------|
-| 🇧🇷 Portuguese | Native |
-| 🇺🇸 English | Basic / Intermediate |
-| 🇯🇵 Japanese | Basic |
-
-<br/>
-
----
-
-<br/>
-
 <div align="center">
 
-**Let's build something great together.**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d0d?style=flat-square&logo=linkedin&logoColor=ff2d78)](https://www.linkedin.com/in/paulo-roberto-griggi-de-campos)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/paulorgdc2005%40gmail.com-0d0d0d?style=flat-square&logo=gmail&logoColor=ff2d78)](mailto:paulorgdc2005@gmail.com)
 
-<br/>
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-roberto-griggi-de-campos)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paulorgdc2005@gmail.com)
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:1a1a2e,100:000000&height=100&section=footer" width="100%"/>
-
-</div>****
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0a14,100:0d0d0d&height=4" width="100%"/>
