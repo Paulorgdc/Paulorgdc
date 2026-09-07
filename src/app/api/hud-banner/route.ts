@@ -2,7 +2,7 @@ import { NextResponse } from "next/server";
 
 export async function GET() {
   const svg = `
-    <svg width="800" height="560" viewBox="0 0 800 560" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <svg width="800" height="520" viewBox="0 0 800 520" fill="none" xmlns="http://www.w3.org/2000/svg">
       <style>
         @import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@600;700&amp;family=Share+Tech+Mono&amp;display=swap');
 
@@ -60,7 +60,7 @@ export async function GET() {
           0% { transform: translateY(0px); opacity: 0; }
           15% { opacity: 0.4; }
           85% { opacity: 0.4; }
-          100% { transform: translateY(560px); opacity: 0; }
+          100% { transform: translateY(520px); opacity: 0; }
         }
 
         /* Cursor Ciano */
@@ -123,11 +123,11 @@ export async function GET() {
       </defs>
 
       <!-- 1. CAMADA DE FUNDO -->
-      <rect width="800" height="560" class="bg" rx="6" />
+      <rect width="800" height="520" class="bg" rx="6" />
 
       <!-- 2. MALHA DE GRID MATRIZ -->
-      <path d="M0 40 H800 M0 80 H800 M0 120 H800 M0 160 H800 M0 200 H800 M0 240 H800 M0 280 H800 M0 320 H800 M0 360 H800 M0 400 H800 M0 440 H800 M0 480 H800 M0 520 H800" class="grid-line" />
-      <path d="M80 0 V560 M160 0 V560 M240 0 V560 M320 0 V560 M400 0 V560 M480 0 V560 M560 0 V560 M640 0 V560 M720 0 V560" class="grid-line" />
+      <path d="M0 40 H800 M0 80 H800 M0 120 H800 M0 160 H800 M0 200 H800 M0 240 H800 M0 280 H800 M0 320 H800 M0 360 H800 M0 400 H800 M0 440 H800 M0 480 H800" class="grid-line" />
+      <path d="M80 0 V520 M160 0 V520 M240 0 V520 M320 0 V520 M400 0 V520 M480 0 V520 M560 0 V520 M640 0 V520 M720 0 V520" class="grid-line" />
 
       <!-- 3. QUADRADINHOS ALEATÓRIOS ESPALHADOS -->
       <rect x="81" y="41" width="78" height="38" class="square sq-1" />
@@ -145,11 +145,11 @@ export async function GET() {
       <rect x="561" y="281" width="78" height="38" class="square sq-13" />
       <rect x="1" y="321" width="78" height="38" class="square sq-14" />
       <rect x="321" y="361" width="78" height="38" class="square sq-15" />
-      <rect x="641" y="441" width="78" height="38" class="square sq-16" />
+      <rect x="641" y="401" width="78" height="38" class="square sq-16" />
 
       <!-- 4. MOLDURA HUD SCI-FI COMPLETA -->
-      <path d="M 20 10 L 780 10 L 790 20 L 790 540 L 780 550 L 20 550 L 10 540 L 10 20 Z" fill="none" class="border-glow" />
-      <path d="M 15 25 L 25 15 M 775 15 L 785 25 M 15 535 L 25 545 M 775 545 L 785 535" stroke="#ff0055" stroke-width="3" />
+      <path d="M 20 10 L 780 10 L 790 20 L 790 500 L 780 510 L 20 510 L 10 500 L 10 20 Z" fill="none" class="border-glow" />
+      <path d="M 15 25 L 25 15 M 775 15 L 785 25 M 15 495 L 25 505 M 775 505 L 785 495" stroke="#ff0055" stroke-width="3" />
 
       <!-- 5. PAINEL SUPERIOR -->
       <text x="35" y="35" class="sys-diag">┌──[ SYSTEM_DIAGNOSTICS // USER_PROFILE ]────────────────┐</text>
@@ -202,30 +202,27 @@ export async function GET() {
       <text x="35" y="238" class="data-label">📍 LOCATION  :</text>
       <text x="165" y="238" class="data-value">Cuiabá / Várzea Grande - MT, Brazil</text>
 
-      <text x="35" y="270" class="data-label">⚡ TECH STACK:</text>
-      <text x="165" y="270" class="data-value">TypeScript | JavaScript | Python | C# | React | Node.js</text>
+      <text x="35" y="270" class="data-label">🇺🇸 🇯🇵 LANGUAGES:</text>
+      <text x="175" y="270" class="data-value">Studying English &amp; Japanese</text>
 
-      <text x="35" y="302" class="data-label">🇺🇸 🇯🇵 LANGUAGES:</text>
-      <text x="175" y="302" class="data-value">Studying English &amp; Japanese</text>
+      <text x="35" y="302" class="data-label">🎯 GOAL      :</text>
+      <text x="165" y="302" class="data-value">International Tech Career &amp; Academic Exchange in Japan</text>
 
-      <text x="35" y="334" class="data-label">🎯 GOAL      :</text>
-      <text x="165" y="334" class="data-value">International Tech Career &amp; Academic Exchange in Japan</text>
-
-      <text x="35" y="366" class="data-label">🛡️🤖 FUTURE   :</text>
-      <text x="165" y="366" class="data-value">Aims to expand into Cybersecurity &amp; Artificial Intelligence (AI)</text>
+      <text x="35" y="334" class="data-label">🛡️🤖 FUTURE   :</text>
+      <text x="165" y="334" class="data-value">Aims to expand into Cybersecurity &amp; Artificial Intelligence (AI)</text>
 
       <!-- Divisória 3 -->
-      <line x1="35" y1="392" x2="765" y2="392" stroke="#800033" stroke-width="1.5" />
+      <line x1="35" y1="360" x2="765" y2="360" stroke="#800033" stroke-width="1.5" />
 
       <!-- Competências Técnicas Enterprise de Alto Nível -->
-      <text x="35" y="418" class="sys-diag">&gt; CORE LANGUAGES  : Python | C++ | C# | Java | TypeScript | SQL</text>
-      <text x="35" y="440" class="sys-diag">&gt; ARCHITECTURE    : System Architecture | RESTful APIs | Microservices | Node.js</text>
-      <text x="35" y="462" class="sys-diag">&gt; ENTERPRISE CLOUD: AWS Cloud | PostgreSQL | Oracle DB | Docker | CI/CD | Linux</text>
+      <text x="35" y="386" class="sys-diag">&gt; CORE LANGUAGES  : Python | C++ | C# | Java | TypeScript | SQL</text>
+      <text x="35" y="408" class="sys-diag">&gt; ARCHITECTURE    : System Architecture | RESTful APIs | Microservices | Node.js</text>
+      <text x="35" y="430" class="sys-diag">&gt; ENTERPRISE CLOUD: AWS Cloud | PostgreSQL | Oracle DB | Docker | CI/CD | Linux</text>
 
       <!-- Rodapé HUD Ajustado -->
-      <line x1="35" y1="486" x2="765" y2="486" stroke="#12121f" stroke-width="1" />
-      <text x="35" y="520" class="katakana">システム // フルスタック // 開発者 // ポートフォリオ</text>
-      <text x="570" y="520" class="katakana">STATUS: ONLINE</text>
+      <line x1="35" y1="454" x2="765" y2="454" stroke="#12121f" stroke-width="1" />
+      <text x="35" y="485" class="katakana">システム // フルスタック // 開発者 // ポートフォリオ</text>
+      <text x="570" y="485" class="katakana">STATUS: ONLINE</text>
 
       <!-- SCANLINE CIANO -->
       <line x1="0" y1="0" x2="800" y2="0" class="scanline" />
