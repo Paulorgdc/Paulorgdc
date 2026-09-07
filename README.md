@@ -1,68 +1,36 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:1a0a14&height=120&text=Paulo%20Roberto&fontSize=48&fontColor=ff2d78&fontAlign=50&fontAlignY=55&desc=Full%20Stack%20Engineer&descAlign=50&descAlignY=80&descSize=14&descFontColor=888888" width="100%"/>
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-<br/>
+## Getting Started
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=ff2d78&center=true&vCenter=true&width=500&height=50&lines=Full+Stack+Engineer;Data+Automation+%26+Design;Building+end-to-end+solutions;Always+learning+%F0%9F%9A%80" alt="Typing SVG"/>
-</div>
+First, run the development server:
 
-<br/>
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+```
 
-<div align="center">
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-<a href="https://www.typescriptlang.org/" target="_blank"><img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg"/></a>
-<a href="https://www.python.org/" target="_blank"><img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg"/></a>
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CS.svg"/></a>
-<a href="https://isocpp.org/" target="_blank"><img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg"/></a>
-<a href="https://react.dev/" target="_blank"><img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg"/></a>
-<a href="https://nodejs.org/" target="_blank"><img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg"/></a>
-<a href="https://www.djangoproject.com/" target="_blank"><img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Django.svg"/></a>
-<a href="https://flask.palletsprojects.com/" target="_blank"><img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Flask-Dark.svg"/></a>
-<a href="https://expressjs.com/" target="_blank"><img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ExpressJS-Dark.svg"/></a>
-<a href="https://www.postgresql.org/" target="_blank"><img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg"/></a>
-<a href="https://www.mongodb.com/" target="_blank"><img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg"/></a>
-<a href="https://www.mysql.com/" target="_blank"><img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg"/></a>
-<a href="https://git-scm.com/" target="_blank"><img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg"/></a>
-<a href="https://github.com/" target="_blank"><img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg"/></a>
-<a href="https://code.visualstudio.com/" target="_blank"><img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg"/></a>
-<a href="https://www.figma.com/" target="_blank"><img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg"/></a>
-<a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Photoshop.svg"/></a>
+You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-</div>
+This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-<br/>
+## Learn More
 
-<div align="center">
+To learn more about Next.js, take a look at the following resources:
 
-<table border="0" cellspacing="0" cellpadding="4">
-<tr>
-<td>
-<img src="https://github-readme-stats-salesp07.vercel.app/api?username=Paulorgdc&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=ff2d78&icon_color=ff2d78&text_color=cccccc&hide=issues&include_all_commits=true&count_private=true" height="150"/>
-</td>
-<td>
-<img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Paulorgdc&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=ff2d78&text_color=cccccc&langs_count=6" height="150"/>
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-<img src="https://streak-stats.demolab.com?user=Paulorgdc&hide_border=true&background=0d0d0d&fire=ff2d78&ring=ff2d78&currStreakLabel=ff2d78&sideLabels=888888&dates=555555&stroke=1a1a1a&currStreakNum=ffffff&sideNums=cccccc" width="100%"/>
-</td>
-</tr>
-</table>
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-</div>
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-<br/>
+## Deploy on Vercel
 
-<div align="center">
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d0d?style=flat-square&logo=linkedin&logoColor=ff2d78)](https://www.linkedin.com/in/paulo-roberto-griggi-de-campos)
-&nbsp;
-[![Gmail](https://img.shields.io/badge/paulorgdc2005%40gmail.com-0d0d0d?style=flat-square&logo=gmail&logoColor=ff2d78)](mailto:paulorgdc2005@gmail.com)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0a14,100:0d0d0d&height=4" width="100%"/>
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
