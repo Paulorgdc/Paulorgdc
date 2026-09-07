@@ -194,7 +194,7 @@ export async function GET() {
       <!-- Divisória 2 -->
       <line x1="35" y1="172" x2="765" y2="172" stroke="#800033" stroke-width="1.5" />
 
-      <!-- Dados Pessoais & Informações -->
+      <!-- Dados Pessoais (LANGUAGES reordenado para o final da lista) -->
       <text x="35" y="206" class="data-label">💻 DEGREE    :</text>
       <text x="165" y="206" class="data-value">B.S. Software Engineering Student (6/8 Semesters)</text>
       <text x="595" y="206" class="data-cyan">[@ UNIVAG]</text>
@@ -202,14 +202,14 @@ export async function GET() {
       <text x="35" y="238" class="data-label">📍 LOCATION  :</text>
       <text x="165" y="238" class="data-value">Cuiabá / Várzea Grande - MT, Brazil</text>
 
-      <text x="35" y="270" class="data-label">🇺🇸 🇯🇵 LANGUAGES:</text>
-      <text x="175" y="270" class="data-value">Studying English &amp; Japanese</text>
+      <text x="35" y="270" class="data-label">🎯 GOAL      :</text>
+      <text x="165" y="270" class="data-value">International Tech Career &amp; Academic Exchange in Japan</text>
 
-      <text x="35" y="302" class="data-label">🎯 GOAL      :</text>
-      <text x="165" y="302" class="data-value">International Tech Career &amp; Academic Exchange in Japan</text>
+      <text x="35" y="302" class="data-label">🛡️🤖 FUTURE   :</text>
+      <text x="165" y="302" class="data-value">Aims to expand into Cybersecurity &amp; Artificial Intelligence (AI)</text>
 
-      <text x="35" y="334" class="data-label">🛡️🤖 FUTURE   :</text>
-      <text x="165" y="334" class="data-value">Aims to expand into Cybersecurity &amp; Artificial Intelligence (AI)</text>
+      <text x="35" y="334" class="data-label">🇺🇸 🇯🇵 LANGUAGES:</text>
+      <text x="175" y="334" class="data-value">Studying English &amp; Japanese</text>
 
       <!-- Divisória 3 -->
       <line x1="35" y1="360" x2="765" y2="360" stroke="#800033" stroke-width="1.5" />
@@ -219,7 +219,7 @@ export async function GET() {
       <text x="35" y="408" class="sys-diag">&gt; ARCHITECTURE    : System Architecture | RESTful APIs | Microservices | Node.js</text>
       <text x="35" y="430" class="sys-diag">&gt; ENTERPRISE CLOUD: AWS Cloud | PostgreSQL | Oracle DB | Docker | CI/CD | Linux</text>
 
-      <!-- Rodapé HUD Ajustado -->
+      <!-- Rodapé HUD -->
       <line x1="35" y1="454" x2="765" y2="454" stroke="#12121f" stroke-width="1" />
       <text x="35" y="485" class="katakana">システム // フルスタック // 開発者 // ポートフォリオ</text>
       <text x="570" y="485" class="katakana">STATUS: ONLINE</text>
